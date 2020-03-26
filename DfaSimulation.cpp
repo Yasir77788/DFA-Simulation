@@ -3,7 +3,7 @@
 // This program is to extract all the patterns in a DNA sequence *
 // over the alphabet {'A', 'T', 'G', 'C'} that starts and ends   *
 // with 'A' or starts and ends with 'T'.                         *
-// The DFA has 6 states, including a Dead states                 *
+// The DFA has 6 states, including a Dead state                 *
 // ***************************************************************
 
 #include <iostream>
